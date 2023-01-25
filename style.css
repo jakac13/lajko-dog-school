@@ -1378,7 +1378,7 @@ textarea:focus {
   }
 
   .img1 {
-    background-image: url(images/eva-drawing.png);
+    background-image: url(./images/eva-drawing.png);
     position: relative;
   }
 
